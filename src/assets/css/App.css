@@ -1,13 +1,14 @@
 .App {
   min-height: 100vh;
   background-color: #282c34;
+  border-top: 8px solid #cea965;
   color: #fff;
 }
 
-.App-header {
-  border-top: 5px solid #cea965;
+.app-bar {
+  color: #cea965;
 }
 
-.App-link {
-  color: #61dafb;
+.logo {
+  flex: 1;
 }

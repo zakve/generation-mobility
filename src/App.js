@@ -6,10 +6,7 @@ import './assets/css/App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-
-      </header>
-      <Container maxWidth="sm">
+      <Container>
         <AppBar />
         <p>
           Edit <code>src/App.js</code> and save to reload.
