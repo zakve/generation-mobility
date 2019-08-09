@@ -1,16 +1,14 @@
 import React from 'react';
-import AppBar from './components/AppBar';
+import Hero from './components/Hero'
 import Container from '@material-ui/core/Container';
 import './assets/css/App.css';
 
 function App() {
   return (
     <div className="App">
+      <Hero />
       <Container>
-        <AppBar />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+
       </Container>
     </div>
   );

@@ -8,7 +8,7 @@ import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 
 function AppBar() {
     return (
-        <Toolbar className="app-bar" disableGutters="true">
+        <Toolbar className="app-bar" color="inherit">
             <Typography variant="h6" color="inherit" className="logo">
                 Martin Zaklasnik
             </Typography>
