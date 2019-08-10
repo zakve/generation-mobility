@@ -91,14 +91,8 @@ body, html {
 .content-card {
   background-color: #282c34;
   color: #cea965;
-  padding-top: 200px;
+  padding: 150px 0px 100px 0px;
   text-align: justify;
-}
-
-@media screen and (max-width: 767px) {
-  .content-card {
-    padding-top: 350px;
-  }
 }
 
 .app-footer {
