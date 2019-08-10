@@ -69,11 +69,18 @@ body, html {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  margin-bottom: -60px;
 }
 
 .table-contents .card {
+  margin-top: 25px;
 }
 
 .table-contents .card-img {
   height: 140px;
+}
+
+.content-card {
+  background-color: #282c34;
+  height: 500px;
 }
