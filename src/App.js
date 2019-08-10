@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Quote from './components/Quote'
 import TableContent from './components/TableContent'
 import ContentCard from "./components/ContentCard";
+import AppFooter from "./components/AppFooter";
 import './assets/css/App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Quote />
       <TableContent />
       <ContentCard />
+      <AppFooter />
     </div>
   );
 }
