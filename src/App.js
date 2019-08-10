@@ -1,7 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero'
-import Container from '@material-ui/core/Container';
 import Quote from './components/Quote'
+import TableContent from './components/TableContent'
 import './assets/css/App.css';
 
 function App() {
@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <Hero />
       <Quote />
+      <TableContent />
     </div>
   );
 }

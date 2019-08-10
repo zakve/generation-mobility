@@ -57,10 +57,23 @@ body, html {
   background-color: #fff;
   color: #282c34;
   padding: 90px 0px;
-  border-bottom: 3px solid #cea965;
+  /*border-bottom: 3px solid #cea965;*/
 }
 
 .quote .quote-char {
   font-size: 45px;
-  color: #B9C9D9;
+  color: #cea965;
+}
+
+.table-contents {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.table-contents .card {
+}
+
+.table-contents .card-img {
+  height: 140px;
 }
