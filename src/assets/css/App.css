@@ -93,6 +93,15 @@ body, html {
   color: #cea965;
   padding: 150px 0px 100px 0px;
   text-align: justify;
+  line-height: 180%;
+}
+
+.content-card-white {
+  background-color: #fff;
+  color: #282c34;
+  padding: 100px 0px;
+  text-align: justify;
+  line-height: 180%;
 }
 
 .app-footer {
