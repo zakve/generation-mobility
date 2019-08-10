@@ -6,82 +6,91 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 
 import Map from "../assets/img/map.jpg";
+import { Paper } from '@material-ui/core';
 
 
 function TableContent() {
     return (
         <div className="table-contents">
-            <Card className="card">
-                <CardActionArea>
-                    <CardMedia
-                        className="card-img"
-                        image={Map}
-                        title="Contemplative Reptile"
-                    />
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="h2">
-                            Why Netherlands?
+            <Paper elevation={7} className="card">
+                <Card>
+                    <CardActionArea>
+                        <CardMedia
+                            className="card-img"
+                            image={Map}
+                            title="Contemplative Reptile"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="h2">
+                                Why Netherlands?
                         </Typography>
-                        <Typography variant="body2" color="textSecondary" component="p">
-                            I choosed Netherlands quite randomly
+                            <Typography variant="body2" color="textSecondary" component="p">
+                                I choosed Netherlands quite randomly
                         </Typography>
-                    </CardContent>
-                </CardActionArea>
-            </Card>
+                        </CardContent>
+                    </CardActionArea>
+                </Card>
+            </Paper>
 
-            <Card className="card">
-                <CardActionArea>
-                    <CardMedia
-                        className="card-img"
-                        image={Map}
-                        title="Contemplative Reptile"
-                    />
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="h2">
-                            Why Netherlands?
+            <Paper elevation={7} className="card">
+                <Card>
+                    <CardActionArea>
+                        <CardMedia
+                            className="card-img"
+                            image={Map}
+                            title="Contemplative Reptile"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="h2">
+                                Why Netherlands?
                         </Typography>
-                        <Typography variant="body2" color="textSecondary" component="p">
-                            I choosed Netherlands quite randomly
+                            <Typography variant="body2" color="textSecondary" component="p">
+                                I choosed Netherlands quite randomly
                         </Typography>
-                    </CardContent>
-                </CardActionArea>
-            </Card>
+                        </CardContent>
+                    </CardActionArea>
+                </Card>
+            </Paper>
 
-            <Card className="card">
-                <CardActionArea>
-                    <CardMedia
-                        className="card-img"
-                        image={Map}
-                        title="Contemplative Reptile"
-                    />
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="h2">
-                            Why Netherlands?
+            <Paper elevation={7} className="card">
+                <Card>
+                    <CardActionArea>
+                        <CardMedia
+                            className="card-img"
+                            image={Map}
+                            title="Contemplative Reptile"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="h2">
+                                Why Netherlands?
                         </Typography>
-                        <Typography variant="body2" color="textSecondary" component="p">
-                            I choosed Netherlands quite randomly
+                            <Typography variant="body2" color="textSecondary" component="p">
+                                I choosed Netherlands quite randomly
                         </Typography>
-                    </CardContent>
-                </CardActionArea>
-            </Card>
+                        </CardContent>
+                    </CardActionArea>
+                </Card>
+            </Paper>
 
-            <Card className="card">
-                <CardActionArea>
-                    <CardMedia
-                        className="card-img"
-                        image={Map}
-                        title="Contemplative Reptile"
-                    />
-                    <CardContent>
-                        <Typography gutterBottom variant="h5" component="h2">
-                            Why Netherlands?
+            <Paper elevation={7} className="card">
+                <Card>
+                    <CardActionArea>
+                        <CardMedia
+                            className="card-img"
+                            image={Map}
+                            title="Contemplative Reptile"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="h2">
+                                Why Netherlands?
                         </Typography>
-                        <Typography variant="body2" color="textSecondary" component="p">
-                            I choosed Netherlands quite randomly
+                            <Typography variant="body2" color="textSecondary" component="p">
+                                I choosed Netherlands quite randomly
                         </Typography>
-                    </CardContent>
-                </CardActionArea>
-            </Card>
+                        </CardContent>
+                    </CardActionArea>
+                </Card>
+            </Paper>
         </div>
 
     )
