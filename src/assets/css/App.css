@@ -46,6 +46,14 @@ body, html {
   background-color: #cea965;
 }
 
+.title-uperline {
+  width: 40px;
+  height: 3px;
+  margin: 5px 0px;
+  /*display: block;*/
+  background-color: #cea965;
+}
+
 .arrow-down {
   position: absolute;
   top: 66%;
@@ -82,7 +90,15 @@ body, html {
 
 .content-card {
   background-color: #282c34;
-  height: 500px;
+  color: #cea965;
+  padding-top: 200px;
+  text-align: justify;
+}
+
+@media screen and (max-width: 767px) {
+  .content-card {
+    padding-top: 350px;
+  }
 }
 
 .app-footer {
