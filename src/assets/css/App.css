@@ -10,6 +10,11 @@ body, html {
   height: 100vh;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .app-bar {
   color: #cea965;
 }
