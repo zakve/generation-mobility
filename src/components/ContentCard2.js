@@ -13,7 +13,7 @@ export default function ContentCard() {
                     </Typography>
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam neque. Pellentesque ipsum. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Aliquam erat volutpat. Etiam posuere lacus quis dolor. Fusce aliquam vestibulum ipsum. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Integer vulputate sem a nibh rutrum consequat. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Proin in tellus sit amet nibh dignissim sagittis. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Suspendisse sagittis ultrices augue. Vivamus porttitor turpis ac leo. Nulla quis diam.
+                    Paperwork at school, with the other university, financial contract, air tickets, train tickets, accommodation, what to take, not far but for me the first flight in my life, insurance
                 </p>
             </Container>
         </div>

@@ -13,7 +13,7 @@ export default function ContentCard() {
                     </Typography>
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam neque. Pellentesque ipsum. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Aliquam erat volutpat. Etiam posuere lacus quis dolor. Fusce aliquam vestibulum ipsum. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Integer vulputate sem a nibh rutrum consequat. Nullam justo enim, consectetuer nec, ullamcorper ac, vestibulum in, elit. Proin in tellus sit amet nibh dignissim sagittis. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Suspendisse sagittis ultrices augue. Vivamus porttitor turpis ac leo. Nulla quis diam.
+                    As a Master's degree student I had opportunity for a six-month exchange stay in another country through Erasmus+ program. I was choosing between Portugal and the Netherlands. On the Googl I was looking for information about every country and because I love cycling, Netherlands was the number 1 choice for me.
                 </p>
             </Container>
         </div>
