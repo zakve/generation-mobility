@@ -141,4 +141,12 @@ a {
 
 .app-footer {
   border-top: 3px solid #cea965;
+  background-color: #282c34;
+  color: #cea965;
+  text-align: center;
+  padding: 50px 0px;
+}
+
+.app-footer a {
+  border-bottom: 1px dotted #cea965;
 }
