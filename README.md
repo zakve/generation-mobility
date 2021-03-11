@@ -1,9 +1,9 @@
-# react-native-eshop
+# React Erasmus Landing page
 This project is about my Erasmus stay in Netherlands.
 This landing page is created using React, Material design and images from Unsplash. Using React for landing pages is not an ideal solution because the page content is dynamically loaded and that is difficult to read for search robots with resulting in poor SEO (Search Engine Optimization). All source codes are available on Github.
 
 ## Demo
-![Landingpage](/assets/screenshots/Landingpage.png)
+![Landingpage](/src/assets/screenshots/Landingpage.png)
 
 ## Instalation
 *	**Clone and install packages**
